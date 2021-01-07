@@ -1,0 +1,8 @@
+{
+  "short_name": "DANCE CIRCLE",
+  "name": "Website of DANCE CIRCLE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#202020",
+  "background_color": "#fefefe"
+}
